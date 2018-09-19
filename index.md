@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到zhs2018的个人杂记
 
-You can use the [editor on GitHub](https://github.com/jipin96310/jipin96310.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是一个个人自述网站，没有什么内容。
 
 ### Markdown
 
